@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    justify-content: center;
+    background: rgba(172, 17, 17, 0.89);
+}
+
+canvas{
+    border: 10px solid #CCC;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;
+    width: 400px;
+    height: 400px;
+}
